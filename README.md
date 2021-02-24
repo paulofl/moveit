@@ -59,7 +59,7 @@ $ git clone https://github.com/paulofl/moveit.git
 # ou use a opção de download.
 
 # Entre na pasta web com 
-$ cd moveIt
+$ cd moveit
 
 # Instale as dependências
 $ yarn install
