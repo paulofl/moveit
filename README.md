@@ -9,7 +9,7 @@
   </a>
 </p>
 
-<img align="right" src=".github/icon.png" width="10%" alt="Move.it">
+<img align="right" src=".github/icon.png" width="5%" alt="Move.it">
 
 ## Tópicos 
 
